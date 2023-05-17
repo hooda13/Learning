@@ -43,5 +43,5 @@ int main() {
     empPtr = &mgr;
     empPtr->display();
 
-    return 0;
+    return 5;
 }
